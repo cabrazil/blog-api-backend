@@ -13,8 +13,6 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 .env*.backup.*
-env.development
-env.production
 # Allow example files
 !.env*.example
 
